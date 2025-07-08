@@ -1,0 +1,23 @@
+[
+    {
+        "year": 2023,
+        "author": "Baus",
+        "isRead": true,
+        "isPrivate": true,
+        "title": "[Encrypted]"
+    },
+    {
+        "year": 2012,
+        "author": "Ujang Bawang",
+        "isRead": true,
+        "isPrivate": true,
+        "title": "Bawang Bakar"
+    },
+    {
+        "year": 1999,
+        "author": "Rijal Kebal",
+        "isRead": false,
+        "isPrivate": true,
+        "title": "Jadi Manusia kebal"
+    }
+]

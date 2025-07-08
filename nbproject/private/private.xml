@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/boyblanco/Documents/NetBeansProjects/MyBookShelf/src/util/HashUtil.java</file>
+            <file>file:/C:/Users/boyblanco/Documents/NetBeansProjects/MyBookShelf/src/seed/Seeder.java</file>
+            <file>file:/C:/Users/boyblanco/Documents/NetBeansProjects/MyBookShelf/src/resources/lang_id.properties</file>
+            <file>file:/C:/Users/boyblanco/Documents/NetBeansProjects/MyBookShelf/src/util/CryptoUtil.java</file>
+            <file>file:/C:/Users/boyblanco/Documents/NetBeansProjects/MyBookShelf/src/util/AutoBackupThread.java</file>
+            <file>file:/C:/Users/boyblanco/Documents/NetBeansProjects/MyBookShelf/src/util/Session.java</file>
+            <file>file:/C:/Users/boyblanco/Documents/NetBeansProjects/MyBookShelf/src/ui/MainFrame.java</file>
+            <file>file:/C:/Users/boyblanco/Documents/NetBeansProjects/MyBookShelf/src/model/User.java</file>
+            <file>file:/C:/Users/boyblanco/Documents/NetBeansProjects/MyBookShelf/src/manager/BookManager.java</file>
+            <file>file:/C:/Users/boyblanco/Documents/NetBeansProjects/MyBookShelf/src/resources/lang_en.properties</file>
+            <file>file:/C:/Users/boyblanco/Documents/NetBeansProjects/MyBookShelf/src/ui/LoginFrame.java</file>
+            <file>file:/C:/Users/boyblanco/Documents/NetBeansProjects/MyBookShelf/src/util/UserSeeder.java</file>
+            <file>file:/C:/Users/boyblanco/Documents/NetBeansProjects/MyBookShelf/src/util/MongoUtil.java</file>
+            <file>file:/C:/Users/boyblanco/Documents/NetBeansProjects/MyBookShelf/src/model/Book.java</file>
+            <file>file:/C:/Users/boyblanco/Documents/NetBeansProjects/MyBookShelf/src/manager/UserManager.java</file>
+        </group>
+    </open-files>
+</project-private>
